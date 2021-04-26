@@ -148,7 +148,7 @@ packages:
       path: "."
       ref: null-safety
       resolved-ref: "19df1ad6af78036bd3c75df9489a5e022b4a812a"
-      url: "https://github.com/bartuszak/sigv4.git"
+      url: "https://github.com/Underwings-it/sigv4.git"
     source: git
     version: "5.0.0-nullsafety.0"
   sky_engine:

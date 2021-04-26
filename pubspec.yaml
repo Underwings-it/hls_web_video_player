@@ -23,7 +23,7 @@ dependencies:
   js: ^0.6.3
   sigv4:
     git:
-      url: https://github.com/bartuszak/sigv4.git
+      url: https://github.com/Underwings-it/sigv4.git
       ref: null-safety
 
 dev_dependencies:
